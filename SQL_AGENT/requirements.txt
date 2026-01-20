@@ -1,0 +1,12 @@
+
+streamlit
+fastapi
+uvicorn
+google-genai
+Pillow
+requests
+python-dotenv
+python-multipart
+
+pytest
+httpx
